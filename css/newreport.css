@@ -1,0 +1,313 @@
+/* CSS Document */
+
+.admin_report_style1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: small-caps;
+	text-transform: uppercase;
+	font-weight: normal;
+	color: #000000;
+}
+.admin_report_table1
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border-collapse:collapse;
+	font-size: 13px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: uppercase;
+	color: #000000;
+}
+
+.style2 {
+	font-family:Georgia, "Times New Roman", Times, serif, "Arial Black";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: uppercase;
+	color: #000000;
+}
+
+.style3 {
+	font-family:  Georgia, "Times New Roman", Times, serif, "Arial Black";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	text-transform: uppercase;
+	color: #000000;
+}
+
+
+.table {
+	font-family: Arial, Helvetica, sans-serif;	
+	border-style:groove; 
+	border: thin solid #000000;	
+	border-collapse:collapse;		
+}
+
+.table1
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border-collapse:collapse;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: uppercase;
+	color:#000000;
+}
+.style7 {
+	font-family:  Georgia, "Times New Roman", Times, serif, "Arial Black";
+	color: #000000;
+	font-weight: bold ;
+	font-size:12px;
+	margin-left:10px;
+}  
+.style8 {color: #000000}
+.style9 {font-weight: bold}
+.style10 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-style:normal;
+	text-transform: uppercase;
+} 
+
+
+.style11 {
+	font-size: 12px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+.style12 {
+	font-size: 14px;
+	font-weight: bold;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.style14 {font-size: 16px;}
+.style15 {font-size: 14px;}  
+.style1 {margin-left:15px;}
+
+.style21{
+	text-transform:none;
+	margin-left:10px;
+}
+
+.style2new{
+margin-left:5px;
+}
+.style2new1{
+margin-left:15px; 
+}
+.style2new2{
+text-transform:none; 
+}
+
+.style1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	text-transform: uppercase;
+	font-weight: normal;
+	color: #000000;
+}
+.ammount2
+{
+	  font-family: Verdana, Arial, Helvetica, sans-serif;
+	  font-size:12px; 
+	  font-weight: normal;
+	  text-align:right;
+	  float:right;
+	  font-style:normal;
+	  padding-right:5px;
+}	
+
+.input
+{ 
+	 font-family: Verdana, Arial, Helvetica, sans-serif;
+	 text-transform:uppercase;
+	 text-align:left;
+	 float:left;
+	 font-style:normal;
+	 word-spacing:normal;
+	 font-size:12px;
+	 font-style:normal;
+	 padding-left:5px;
+}
+.input1
+{
+	font-family:Georgia, "Times New Roman", Times, serif, "Arial Black";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: uppercase;
+	color: #000000;
+	text-align:left;
+	float:left;
+	padding-left:5px;
+}
+
+.input3
+{
+    font-family:Georgia, "Times New Roman", Times, serif, "Arial Black";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: uppercase;
+	text-align:right;
+	float:right;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+}	 
+
+
+.admin_report_style2 {
+	font-family:  Georgia, "Times New Roman", Times, serif, "Arial Black";
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: uppercase;
+	color: #000000;
+}
+
+.admin_report_style3 {
+	font-family:  Georgia, "Times New Roman", Times, serif, "Arial Black";
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	text-transform: uppercase;
+	color: #000000;
+}
+
+
+.admin_report_table1
+{
+	font-family: Arial, Helvetica, sans-serif;
+	border-collapse:collapse;
+}
+
+.admin_report_table11 {	
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border-collapse:collapse;
+	font-size: 13px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: uppercase;
+	color: #000000;
+}
+
+
+.style6 {
+	padding-left:0;
+	padding-right:0;
+	margin-left:0;
+	margin-right:0;
+	text-align:center;
+}
+
+.dist_gov_mem_style3 {
+	font-family:  Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	text-transform: uppercase;
+	color: #000000;
+}
+
+.style13 {font-family: Arial, Helvetica, sans-serif}
+
+
+.monthly_report_style1 {
+	font-family:   Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	text-transform: uppercase;
+	color: #000000;
+}
+
+.monthly_report_style2 {
+	font-family:   Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: uppercase;
+	color: #000000;
+}
+
+.ativity_report_style1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: small-caps;
+	text-transform: uppercase;
+	font-weight: normal;
+	color: #000000;
+}
+.print_activity_report_style1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: small-caps;
+	text-transform: uppercase;
+	font-weight: normal;
+	color: #000000;
+}
+.adm_report_view_table {
+	font-family: Arial, Helvetica, sans-serif;
+	border: thin solid #000000;
+	border-collapse:collapse;
+	text-transform:uppercase;
+}
+.adm_report_view_table1
+{
+	font-family: Arial, Helvetica, sans-serif;
+	border-collapse:collapse;
+	text-transform:uppercase;
+}
+
+
+.admin_report_print_style1
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: small-caps;
+	text-transform: lowercase;
+	font-weight: normal;
+	color: #000000;
+}
+.printbutton
+{
+	width:100px;
+}
+
+.noborder{
+border-bottom:0;
+border-top:0;
+}

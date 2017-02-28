@@ -1,0 +1,44 @@
+*{
+      margin:0;
+      padding:0;
+      list-style:none;
+      border:none;
+	  
+    }
+	
+    ul.domtabs li{
+    float:left;
+	padding:0 .5em 0 0;
+	
+    }
+	ul.domtabs {
+	width:500px;
+	
+	}
+    ul.domtabs a:link,
+    ul.domtabs a:visited,
+    ul.domtabs a:hover{
+      width:5em;
+       
+      /*background:#075B9B;#406800*/
+	 padding: 5px;
+	  color:#fff;
+      height:3em;
+      text-decoration:none;
+    }
+	ul.domtabs a:active{
+      width:5em;
+      padding:5px;      
+      background:#075B9B;
+      color:#fff;
+	  height:3em;
+      text-decoration:none;
+    }
+      div.domtab div{
+      clear:both;
+      width:500px;
+	  border:thin solid #666666;
+      
+	  
+    }
+     

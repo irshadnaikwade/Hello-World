@@ -1,0 +1,446 @@
+body {
+	background: #809315 url(../images/img01.jpg) repeat-x top left;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #FFFFFF;
+	margin: 0px;
+	padding: 0px;
+	text-transform:uppercase;
+}
+
+input{
+	margin-bottom: 5px;
+	padding: 2px 5px;
+	border: 1px solid #ffffff;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-align: left;
+	vertical-align: middle;
+	text-transform:uppercase;
+}
+
+h1, h2, h3 {
+}
+
+
+p, ul, ol {
+	margin-top: 1.5em;
+	line-height: 190%;
+}
+
+ul, ol {
+	margin-left: 3em;
+}
+
+blockquote {
+	margin-left: 3em;
+	margin-right: 3em;
+}
+
+
+
+a img {
+	border: none;
+}
+
+img.left {
+	float: left;
+	margin-right: 0px;
+}
+
+img.right {
+	float: right;
+	margin-right: 0px;
+}
+
+hr{
+	height: 5px;
+	background:  #FF9933 ;
+}
+
+#header {
+	width: 960px;
+	height: 206px;
+	margin: 0 auto;
+	background: url(../images/img02.jpg) no-repeat top left;
+}
+
+/* Logo */
+
+#logo {
+	width: 870px;
+	height: 152px;
+	margin: 0 auto;
+}
+
+#logo h1, #logo h2 , #logo h3{
+	margin: 0;
+}
+
+#logo h1 {
+	float: center;
+	padding-top: 30px;
+	padding-left: 50px;
+	font-weight: normal;
+}
+
+#logo h2 {
+	float: center;
+	text-transform: uppercase;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+#logo h3 {
+	float: center;
+	text-transform: uppercase;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 10px;
+}
+
+#logo h2, #logo h2 a {
+	color: #FFFFFF;
+}
+
+#logo a {
+	text-decoration: none;
+}
+
+/* Menu */
+
+#menu {
+	width: 960px;
+	margin: 0 auto;
+	padding-bottom: 30px;
+}
+
+
+#menu ul {
+	margin: 0;
+	padding: 23px 0 0 28px;
+	list-style: none;
+	line-height: normal;
+}
+
+#menu li {
+	float: left;
+	padding: 0 2px 0 2px;
+}
+
+#menu li.first a{
+	float: left;
+	background: #619E00;
+	padding: 9px 20px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 10px;
+	color: #FFFFFF;
+}
+
+#menu a {
+	float: left;
+	background: #406800;
+	padding: 10px 10px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 10px;
+	color: #FFFFFF;
+}
+
+#menu a:hover {
+	text-decoration: none;
+	background: #619E00;
+	padding: 10px 10px;
+}
+
+/* Menu new */
+#menunew {
+	width: 1035px;
+	margin: 0 auto;
+	padding-bottom: 30px;
+}
+
+
+#menunew ul {
+	margin: 0;
+	padding: 23px 0 0 28px;
+	list-style: none;
+	line-height: normal;
+}
+
+#menunew li {
+	float: left;
+	padding: 0 2px 0 2px;
+}
+
+#menunew li.first a{
+	float: left;
+	background: #619E00;
+	padding: 9px 20px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 10px;
+	color: #FFFFFF;
+}
+
+#menunew a {
+	float: left;
+	background: #406800;
+	padding: 10px 10px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 10px;
+	color: #FFFFFF;
+}
+
+#menunew a:hover {
+	text-decoration: none;
+	background: #619E00;
+	padding: 10px 10px;
+}
+
+
+/* Search */
+
+#search {
+	float: right;
+	width: 200px;
+}
+
+#search form {
+	margin: 0;
+	padding: 0;
+	margin-top: -10px;
+}
+
+#search fieldset {
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
+#search input {
+}
+
+#search #s {
+	width: 150px;
+}
+
+#search #x {
+	margin: 0;
+	padding: 0;
+	width: 30px;
+	background: #406800;
+	color: #FFFFFF;
+}
+
+/* Banner */
+
+#banner {
+	width: 960px;
+	margin: 0 auto;
+	padding: 8px 0;
+}
+
+/* Page */
+
+#page {
+	width: 960px;
+	margin: 0 auto;
+	padding: 20px 20px 0 20px;
+	azimuth:center;
+}
+
+/* Content */
+
+#content {
+	margin-left:70px;
+	width: 810px;
+	azimuth:center;
+}
+
+#content .contentbody{
+	width: 810px;
+ 	 background:url(../images/border1.gif) repeat-y;
+}
+
+#content .contentfooter{
+	
+	width: 810px;
+	height:167px;
+     background:url(../images/border6.gif) no-repeat;
+	 margin-bottom:5px;
+}
+
+#content .contenttop{
+
+	margin-top:5px;
+	width: 810px;
+	height:100px;
+	background:url(../images/border5.gif) no-repeat;
+	
+}
+
+
+.contenttop h1{
+margin-top:2px;
+margin-bottom:2px;
+font-size:18px;
+font-weight:bold;
+text-align:center;
+color:#3F6800;
+
+text-transform:uppercase;
+}
+
+.contenttop h2{
+margin-top:0;
+font-size:15px;
+font-weight:bold;
+text-align:center;
+color:#809315;
+text-transform:uppercase;
+}
+
+.contentbody h1{
+margin-top:10px;
+font-size:18px;
+font-weight:200;
+text-align:center;
+color:#809315;
+}
+
+.contentbody h2{
+margin-top:10px;
+font-size:18px;
+font-weight:bold;
+text-align:center;
+color:#3F6800;
+}
+
+.contentbody h3{
+margin-top:10px;
+font-size:13px;
+font-weight:bold;
+text-align:center;
+color:#3F6800;
+}
+
+.post {
+	width: 420px;
+	padding: 0 0 0 0;
+	azimuth:center;
+}
+
+.post .title {
+	margin: 0;
+	padding: 20px 20px 0 20px;
+	background: url(../images/img04.gif) no-repeat left 100%;
+	border-bottom: 1px solid #FFFFFF;
+}
+
+.post .title a:hover {
+	text-decoration: none;
+}
+
+.post .entry {
+	azimuth:center;
+	text-align:justify;
+}
+
+.post .meta {
+	height: 20px;
+	margin: 15px 0 20px 0;
+	padding: 2px 0 0 10px;
+	background: #4E9FC8 ;
+	line-height: normal;
+}
+
+	
+
+
+/* Footer */
+
+#footer {
+	clear: both;
+	width: 900px;
+	height: 50px;
+	margin: 0 auto;
+	padding: 35px 45px;
+	border-top: 5px solid #FF9933;
+}
+
+#footer p {
+	margin: 0;
+	line-height: normal;
+	color: #FFFFFF;
+}
+
+#footer a {
+	color: #ffffff;
+}
+
+#footer .legal {
+	float: left;
+}
+
+#footer .credit {
+	float: right;
+}
+
+
+
+table {
+	font-family: Arial, Helvetica, sans-serif;
+	border: thin solid #406800;
+	border-collapse:collapse;
+	text-transform:uppercase;
+}
+table td{
+padding-left:10px;
+border-bottom:thin solid #406800;
+border-right:thin solid #406800;
+}
+table table{
+border-collapse:collapse;
+border-top:thin solid #406800;
+}
+
+.button{
+border-color:#ffffff #666666 #666666 #ffffff;
+background-color:#406800;
+color:#FFFFFF;
+text-align:center;
+width:9em;
+text-transform:capitalize;
+}
+
+#bottom{
+height:150px;
+
+}
+
+table{
+font-weight:bold;}
+
+.mandatory {
+	color: #FF0000;
+	font-size: 16px;
+}
+
+select{
+text-transform:uppercase;
+}
+
+textarea{
+text-transform:uppercase;
+}

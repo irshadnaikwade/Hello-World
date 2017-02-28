@@ -1,0 +1,433 @@
+/* CSS Document */
+body {
+	color:#000000;
+	text-align : center;
+	font-family : tahoma, sans-serif;
+	font-size : 10px;
+	text-transform:none;
+}
+table
+{
+	font-family : tahoma, sans-serif;
+	border: thin solid #406800;
+	border-collapse:collapse;
+	text-transform:uppercase;
+}
+table td
+{
+	border:#666666 1px solid ;
+}
+
+tr, td, th
+{
+	min-height:15px;
+	
+}
+.style1
+{
+	border-width:0px;
+	color:#000000;
+	font-family : tahoma, sans-serif;
+	font-size : 11px;
+	font-weight : bold;
+	text-align:left;
+	padding-left:10px;
+	vertical-align:top;
+	text-transform:none;
+}
+.input
+{
+	border-width:0px;
+	color:#666666;
+	font-family : tahoma, sans-serif;
+	font-size : 11px;
+	font-weight : normal;
+	text-align:left;
+	padding-left:10px;
+	vertical-align:top;
+}
+.style2
+{
+	border-width:0px;
+	color:#000000;
+	font-family : tahoma, sans-serif;
+	font-size : 11px;
+	font-weight : bold;
+	text-align:right;
+	padding-left:10px;
+	vertical-align:top;
+	text-transform:none;
+}
+.ammount2
+{
+	border-width:0px;
+	color:#666666;
+	font-family : tahoma, sans-serif;
+	font-size : 11px;
+	font-weight : normal;
+	text-align:left;
+	padding-left:10px;
+	vertical-align:top;
+}
+
+
+
+/* ******************* For Table With Border ******************** */
+.style3
+{
+	color:#000000;
+	font-family : tahoma, sans-serif;
+	font-size : 11px;
+	font-weight : bold;
+	text-align:left;
+	padding-left:10px;
+	vertical-align:top;
+}
+.input1
+{
+	color:#666666;
+	font-family : tahoma, sans-serif;
+	font-size : 11px;
+	font-weight : normal;
+	text-align:left;
+	padding-left:10px;
+	vertical-align:top;
+}
+
+.input1new
+{
+	color:#666666;
+	font-family : tahoma, sans-serif;
+	font-size : 10px;
+	font-weight : normal;
+	text-align:left;
+	padding-left:10px;
+	vertical-align:top;
+}
+.style4
+{
+	color:#000000;
+	font-family : tahoma, sans-serif;
+	font-size : 11px;
+	font-weight : bold;
+	text-align:right;
+	padding-right:10px;
+	vertical-align:top;
+}
+.ammount1
+{
+	color:#666666;
+	font-family : tahoma, sans-serif;
+	font-size : 11px;
+	font-weight : normal;
+	text-align:right;
+	padding-right:10px;
+	vertical-align:top;
+}
+
+.ammount1new
+{
+	color:#666666;
+	font-family : tahoma, sans-serif;
+	font-size : 11px;
+	font-weight : normal;
+	text-align:right;
+	padding-right:10px;
+	vertical-align:top;
+}
+
+.tableborder
+{
+	border:#666666 1px solid ;
+	margin-left:10px;	
+	margin-right:10px;	
+	text-align:center;
+	vertical-align:top;
+}
+
+.borderzero
+{
+	border-width:0px ;	
+}
+.report_heading
+{
+	color:#000000;
+	font-family : tahoma, sans-serif;
+	font-size : 12px;
+	font-weight : bold;
+	text-align:center;
+	vertical-align:top;
+}
+.btm_tableborder
+{
+	border:#666666 1px solid ;
+	margin-left:10px;	
+	margin-right:10px;	
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-width:0px;
+}
+.border{
+	border:1px solid #999999;
+	border-collapse:collapse;
+	padding-left:10px;
+}
+.report_tableborder
+{
+	border:#666666 1px solid ;
+	margin-left:10px;	
+	margin-right:10px;		
+}
+/*.button
+{
+	border-color:#ffffff #666666 #666666 #ffffff;
+	background-color:#075B9B;
+	color:#FFFFFF;
+	text-align:center;
+	width:7.7em;
+	height:2em;
+	text-transform:none;
+	margin-bottom:5px;
+	font-size:11px;
+	font-family : tahoma, sans-serif;
+	font-weight:bold;
+	
+}
+*/
+
+.button
+{
+	border-color:#ffffff #666666 #666666 #ffffff;
+	background-image:url(../images/myButton.jpg);
+	background-color:#075B9B;
+	color:#FFFFFF;
+	text-align:top;
+	width:7.4em;
+	height:2em;
+	text-transform:none;
+	margin-bottom:5px;
+	font-size:12px;
+	font-family : tahoma, sans-serif;
+	font-weight:bold;
+	border:0px;
+}
+
+.margin
+{
+margin-top:-15px; 
+}
+.noborder{
+border-bottom:0;
+border-top:0;
+}
+
+.left_padding
+{
+padding-left:5px;
+}
+
+.right_padding
+{
+padding-right:5px;
+}
+
+.inputnew
+{ 	 
+	border:1px solid #999999;
+	border-collapse:collapse;
+	font-family: tahoma, sans-serif;
+	font-size : 11px;
+	font-weight : normal;
+	text-align:left;
+	padding-left:10px;
+	vertical-align:top;
+}
+
+.ammountnew
+{
+	border:1px solid #999999;
+	border-collapse:collapse;
+	font-family: tahoma, sans-serif;
+	font-size : 11px;
+	font-weight : normal;
+	text-align:right;
+	padding-right:10px;
+	vertical-align:top;
+}
+.date
+{
+        
+	    font-family: tahoma, sans-serif;
+		font-size:11px;
+		font-weight:bold;
+		background:background-color:#FFFFFF;
+		text-align:left;
+		float:left;
+		padding-left:5px;
+		margin:0px 0px 0px 0px;
+		}			     		     
+.pageno
+{
+	    font-family: tahoma, sans-serif;
+		font-size:11px;
+		font-weight:bold;
+		background:background-color:#FFFFFF;
+		text-align:right;
+		float:right;
+		padding-right:5px;
+		margin:0px 0px 0px 0px;
+	}	
+	
+.center_table
+{
+	border:#666666 1px solid ;	
+	text-align:center;	
+	vertical-align:top;	
+}
+
+
+.style2forReceipt
+{
+	border-width:0px;
+	color:#000000;
+	font-family : tahoma, sans-serif;	
+	font-size : 12px;
+	word-spacing:2px;
+	font-weight : bold;
+	text-transform:capitalize;
+}
+.it
+{ 
+	font-weight:normal; 
+	font-family: tahoma, sans-serif;
+	font-size:14px;
+  	word-spacing:2px;
+  	text-transform:capitalize;
+	
+}
+
+.style15ForRec 
+{
+font-family: tahoma, sans-serif;
+font-size: 12px;
+text-transform:capitalize;
+font-weight:bold;
+}
+
+.style15ForRecnew
+{
+font-family: tahoma, sans-serif;
+font-size: 11px;
+text-transform:capitalize;
+font-weight:bold;
+}
+
+.ReceiptHeading
+{
+font-family: tahoma, sans-serif;
+font-size: 18px;
+text-transform:capitalize;
+border-width:0px ;	
+}
+
+.ReceiptHeadingnew
+{
+font-family: tahoma, sans-serif;
+font-size: 15px;
+border-width:0px ;	
+}
+
+.ReceiptHeading2
+{
+font-family: tahoma, sans-serif;
+font-size: 13px;
+text-transform:capitalize;
+font-weight:bold;
+border-width:0px ;	
+padding-left:10px;
+padding-right:10px;
+vertical-align:middle
+}
+.style15ForBill 
+{
+	font:Arial, Helvetica, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-transform:none;
+	padding-left:5px;
+}
+
+.style15ForBillnew
+{
+	font:Arial, Helvetica, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	text-transform:none;
+	padding-left:5px;
+	font-weight:bold;
+}
+
+.style15ForBillnew1
+{
+	font-family: tahoma, sans-serif;
+	font-size: 10px;
+	text-transform:uppercase;
+	padding-left:5px;
+	text-align:left;	
+}
+.style15ForBillnew2
+{
+	font-family: tahoma, sans-serif;
+	font-size: 11px;
+	text-transform:none;
+	padding-right:5px;
+	text-align:right;	
+	
+}
+
+.style15ForBillnewSmall
+{
+	font:Arial, Helvetica, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	text-transform:capitalize;
+	padding-left:10px;
+	font-weight:bold;
+}
+
+
+.myClass
+{ 
+	font-weight:normal; 
+	font-family: tahoma, sans-serif;
+	font-size:11px;
+  	word-spacing:2px;
+  	text-transform:uppercase;
+}
+
+.myClass2
+{
+	border-width:0px;
+	color:#000000;
+	font-family : tahoma, sans-serif;	
+	font-size : 11px;
+	word-spacing:2px;
+	font-weight : bold;
+	text-transform:uppercase;
+}
+
+.ReceiptTitle
+{
+	font-family: tahoma, sans-serif;
+	font-size: 18px;
+	text-transform:uppercase;
+	border-width:0px ;	
+}
+
+.ReceiptTitle1
+{
+	font-family: tahoma, sans-serif;
+	font-size: 11px;
+	text-transform:capitalize;
+	border-width:0px ;	
+}
